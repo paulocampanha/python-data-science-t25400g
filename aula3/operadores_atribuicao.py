@@ -24,6 +24,3 @@ print(f"Valor de número multiplicado por 10: {numero}.")
 numero /= 2     # equivalente à numero = numero / 2
 print(f'Valor de número dividido por 2: {numero}.')
 
-# Operador divisão inteira e atribuição
-numero //= 7    # equivalente à numero = numero // 7
-print(f'Valor de número inteiro dividido por 7: {numero}.')
