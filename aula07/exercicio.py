@@ -13,3 +13,22 @@
 # e a altura em metros.
 # Seu IMC é XX. Sua classificação é: Peso Normal
  
+peso = float(input("Digite seu peso em quilos: "))
+altura = float(input("Digite sua altura em metros: "))
+
+imc = peso / (altura ** 2)
+
+if imc < 18.5:
+    classificacao = "Abaixo do Peso Ideal"
+elif imc < 25:
+    classificacao = "Peso Normal"
+elif imc < 30:
+    classificacao = "Sobrepeso"
+elif imc < 35:
+    classificacao = "Obesidade Grau I"
+elif imc < 40:
+    classificacao = "Obesidade Grau II"
+else:
+    classificacao = "Obesidade Grau III"
+
+print(f"Seu IMC é {imc:.2f}. Sua classificação é: {classificacao}")
