@@ -1,0 +1,30 @@
+ID_Cliente,Nome,Idade,Cidade,Renda
+1,Sam,43.0,São Paulo,10849.91
+2,Alice,51.0,Curitiba,14456.97
+5,Charlie,30.0,São Paulo,4206.38
+6,Rachel,27.0,Belo Horizonte,5986.86
+7,Oscar,31.0,São Paulo,14248.14
+8,Charlie,41.0,Belo Horizonte,9218.43
+11,Rachel,53.0,Brasília,11212.57
+13,Rachel,53.0,Salvador,3500.02
+14,Nina,21.0,Belo Horizonte,3569.17
+15,Isaac,60.0,Manaus,6703.29
+16,Tina,50.0,São Paulo,4104.34
+17,Tina,58.0,Belo Horizonte,13359.37
+19,Oscar,47.0,São Paulo,13931.93
+21,Isaac,31.0,Brasília,6411.95
+23,Isaac,50.0,Manaus,11712.17
+24,Frank,20.0,Belo Horizonte,10717.3
+26,Tina,55.0,Porto Alegre,13647.22
+30,Bob,36.0,Brasília,3101.46
+31,Grace,30.0,Rio de Janeiro,7789.51
+32,Tina,43.0,Recife,7331.33
+33,Alice,59.0,Belo Horizonte,14243.36
+34,Nina,55.0,Recife,4168.63
+35,Isaac,47.0,São Paulo,13104.92
+36,Tina,37.0,Rio de Janeiro,4954.82
+40,Heidi,39.0,Belo Horizonte,3851.0
+41,Heidi,33.0,São Paulo,9478.29
+42,David,41.0,Curitiba,14580.33
+44,Isaac,35.0,Manaus,14772.83
+49,Bob,35.0,Manaus,10829.17

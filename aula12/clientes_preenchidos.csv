@@ -1,0 +1,51 @@
+ID_Cliente,Nome,Idade,Cidade,Renda
+1,Sam,43.0,São Paulo,10849.91
+2,Alice,51.0,Curitiba,14456.97
+3,Alice,41.63414634146341,Desconhecida,12106.72
+4,Nina,56.0,Desconhecida,14239.37
+5,Charlie,30.0,São Paulo,4206.38
+6,Rachel,27.0,Belo Horizonte,5986.86
+7,Oscar,31.0,São Paulo,14248.14
+8,Charlie,41.0,Belo Horizonte,9218.43
+9,Charlie,41.0,Desconhecida,11380.09
+10,Bob,41.63414634146341,Brasília,9456.970000000001
+11,Rachel,53.0,Brasília,11212.57
+12,Alice,41.63414634146341,Desconhecida,4250.97
+13,Rachel,53.0,Salvador,3500.02
+14,Nina,21.0,Belo Horizonte,3569.17
+15,Isaac,60.0,Manaus,6703.29
+16,Tina,50.0,São Paulo,4104.34
+17,Tina,58.0,Belo Horizonte,13359.37
+18,Frank,59.0,Curitiba,9456.970000000001
+19,Oscar,47.0,São Paulo,13931.93
+20,Laura,38.0,Desconhecida,5368.97
+21,Isaac,31.0,Brasília,6411.95
+22,Julia,41.63414634146341,Salvador,4596.77
+23,Isaac,50.0,Manaus,11712.17
+24,Frank,20.0,Belo Horizonte,10717.3
+25,Alice,41.63414634146341,Desconhecida,9435.65
+26,Tina,55.0,Porto Alegre,13647.22
+27,Laura,41.63414634146341,Manaus,12295.31
+28,Julia,38.0,Desconhecida,5305.2
+29,Oscar,53.0,Desconhecida,4962.59
+30,Bob,36.0,Brasília,3101.46
+31,Grace,30.0,Rio de Janeiro,7789.51
+32,Tina,43.0,Recife,7331.33
+33,Alice,59.0,Belo Horizonte,14243.36
+34,Nina,55.0,Recife,4168.63
+35,Isaac,47.0,São Paulo,13104.92
+36,Tina,37.0,Rio de Janeiro,4954.82
+37,Rachel,41.63414634146341,Manaus,7417.0
+38,Alice,47.0,Desconhecida,13204.03
+39,Tina,25.0,Rio de Janeiro,9456.970000000001
+40,Heidi,39.0,Belo Horizonte,3851.0
+41,Heidi,33.0,São Paulo,9478.29
+42,David,41.0,Curitiba,14580.33
+43,Tina,41.63414634146341,Brasília,4466.0
+44,Isaac,35.0,Manaus,14772.83
+45,Rachel,39.0,Recife,9456.970000000001
+46,Rachel,30.0,Porto Alegre,9456.970000000001
+47,Julia,29.0,Desconhecida,13466.5
+48,Quinn,41.0,Belo Horizonte,9456.970000000001
+49,Bob,35.0,Manaus,10829.17
+50,Laura,41.63414634146341,Salvador,10812.9

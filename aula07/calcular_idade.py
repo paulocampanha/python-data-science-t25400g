@@ -1,5 +1,6 @@
 # Nesse programa vamos calcular a idade de uma pessoa
 
+
 import datetime
 data_atual = datetime.date.today()
 print(data_atual)
